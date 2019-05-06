@@ -1,0 +1,3 @@
+rootProject.name = 'contador_de_copo_de_agua'
+
+include ':app'
